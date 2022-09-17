@@ -1,0 +1,34 @@
+<resources>
+    <!-- Debug Strings -->
+    <string name="none">-</string>
+    <string name="example_clicks">0 clicks</string>
+    <string name="example_level">0/10</string>
+    <string name="example_nextlevel">10 clicks</string>
+
+    <!-- Used Strings -->
+    <string name="app_name">Clicker</string>
+    <string name="clicks">%1$d clicks</string>
+    <string name="level_title">Current level</string>
+    <string name="level">%1$d/10</string>
+    <string name="nextlevel_title">Next level</string>
+    <string name="nextlevel0">10 clicks</string>
+    <string name="nextlevel1">100 clicks</string>
+    <string name="nextlevel2">200 clicks</string>
+    <string name="nextlevel3">500 clicks</string>
+    <string name="nextlevel4">1k clicks</string>
+    <string name="nextlevel5">5k clicks</string>
+    <string name="nextlevel6">20k clicks</string>
+    <string name="nextlevel7">100k clicks</string>
+    <string name="nextlevel8">300k clicks</string>
+    <string name="nextlevel9">1M clicks</string>
+    <string name="nextlevel10">2M clicks</string>
+    <string name="nextlevel11">3M clicks</string>
+    <string name="nextlevel12">5M clicks</string>
+    <string name="nextlevel13">10M clicks</string>
+    <string name="nextlevel14">None</string>
+    <string name="bronze_medal">Bronze Medal</string>
+    <string name="silver_medal">Silver Medal</string>
+    <string name="gold_medal">Gold Medal</string>
+    <string name="diamond_medal">Diamond Medal</string>
+    <string name="instructions">Click anywhere on the screen to increase the counter!</string>
+</resources>
